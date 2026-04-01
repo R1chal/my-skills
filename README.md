@@ -1,6 +1,6 @@
 # Claude Code Skills
 
-我的自定义 Claude Code 技能集合。
+这是我日常使用的 Claude Code 技能集合，记录了我在实际工作中高频使用的工具。
 
 ## 技能列表
 
@@ -19,11 +19,21 @@
 
 1. 克隆此仓库：
 ```bash
-git clone https://github.com/richal/my-skills.git
+git clone https://github.com/R1chal/my-skills.git
 ```
 
-2. 将技能目录链接到 `~/.cc-switch/skills/` 或使用时的相对路径。
+2. 将技能目录链接到你的 Claude Code 配置中：
+```bash
+# 例如，链接到 ~/.cc-switch/skills/
+ln -s my-skills/web-access ~/.cc-switch/skills/web-access
+ln -s my-skills/pdf ~/.cc-switch/skills/pdf
+# ... 其他技能同理
+```
 
 ## 使用说明
 
 每个技能目录下包含 `SKILL.md` 或 `README.md` 详细说明其用法。
+
+## 备注
+
+这些技能来自 [Claude Code Skills](https://github.com/anthropics/skills) 官方仓库，是我在日常工作中筛选出来的高频工具。
