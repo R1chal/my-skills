@@ -1,0 +1,24 @@
+{
+  "notebooks": {
+    "ai\u77e5\u8bc6\u5e93": {
+      "id": "ai\u77e5\u8bc6\u5e93",
+      "url": "https://notebooklm.google.com/notebook/35e9dd99-32ca-4e6b-8813-f96d7cf20b75",
+      "name": "AI\u77e5\u8bc6\u5e93",
+      "description": "AI\u76f8\u5173\u6280\u672f\u6587\u6863\u548c\u5b66\u4e60\u8d44\u6599",
+      "topics": [
+        "AI",
+        "\u673a\u5668\u5b66\u4e60",
+        "\u6df1\u5ea6\u5b66\u4e60"
+      ],
+      "content_types": [],
+      "use_cases": [],
+      "tags": [],
+      "created_at": "2026-03-26T22:08:54.151896",
+      "updated_at": "2026-03-26T22:08:54.151904",
+      "use_count": 0,
+      "last_used": null
+    }
+  },
+  "active_notebook_id": "ai\u77e5\u8bc6\u5e93",
+  "updated_at": "2026-03-26T22:08:54.151906"
+}
